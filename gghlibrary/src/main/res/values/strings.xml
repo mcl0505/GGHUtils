@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">easyLibrary</string>
+
+
+    <string name="app_wx_share_message1">分享成功</string>
+    <string name="app_wx_share_message2">分享失败</string>
+    <string name="app_wx_share_message3">分享被拒绝</string>
+    <string name="app_wx_share_message4">发送返回</string>
+    <string name="app_wx_login_message1">登录失败</string>
+    <string name="app_wx_login_message2">登录被拒绝</string>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='GGHUtils'
+include ':app'
+include ':gghlibrary'
